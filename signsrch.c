@@ -25,6 +25,7 @@
 #include <sys/stat.h>
 #include <errno.h>
 #include <ctype.h>
+#include <dirent.h>
 #include "show_dump.h"
 #include "hal_search.c"
 #define MAINPROG
